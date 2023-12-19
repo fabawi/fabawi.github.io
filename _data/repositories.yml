@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - modular-ml
+  - fabawi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - fabawi/ImageBind-LoRA
+  - modular-ml/wrapyfi
+  - modular-ml/wrapyfi-examples_llama
+  - knowledgetechnologyuhh/gasp
+  - knowledgetechnologyuhh/augmented_grasping_3d
+  - modular-ml/wrapyfi-interfaces
