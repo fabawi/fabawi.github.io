@@ -1,6 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"HRI":
+  url: https://humanrobotinteraction.org/
   color: "#00369f"
+  
+"RO-MAN":
+  url: https://ro-man2023.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IJCAI":
+  url: https://www.ijcai.org/
+
