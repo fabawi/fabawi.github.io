@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-12-01 16:23:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The Wrapyfi code paper accepted as a short-contribution at the HRI '24 (Boulder, CO, USA) conference and will appear alongside the full-paper proceedings in March 2024
