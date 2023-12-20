@@ -1,5 +1,5 @@
 github_users:
-  - fabawi
+  - fabawi&orgs=modular-ml
 
 github_repos:
   - fabawi/ImageBind-LoRA
