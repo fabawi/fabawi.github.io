@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Wrapyfi code available on Github: [https://github.com/fabawi/wrapyfi](https://github.com/fabawi/wrapyfi)
+Wrapyfi [\[code\]](https://github.com/fabawi/wrapyfi)[\[paper\]](https://www2.informatik.uni-hamburg.de/wtm/publications/2024/AAFW24/Abawi_HRI24.pdf) is now available on PyPi [https://pypi.org/project/wrapyfi](https://pypi.org/project/wrapyfi/) and the documentation on readthedocs [https://wrapyfi.readthedocs.io](https://wrapyfi.readthedocs.io/en/latest/)
