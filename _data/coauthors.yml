@@ -10,19 +10,19 @@
   - firstname: ["Manfred", "M."]
     url: http://www.manfred.eppe.eu/
 
-"AlDaoud"
+"AlDaoud":
   - firstname: ["Mohammad", "M."]
     url: https://www.gju.edu.jo/content/prof-mohammad-aldaoud-1305
 
-"Alouneh"
+"Alouneh":
   - firstname: ["Sahel", "S."]
     url: https://engineering.aau.ac.ae/en/academic-staff/staff/sahel-alouneh
 
-"Al-Hawari"
-  - firstname: ["Feras", "F."]
+"Al-Hawari":
+  - firstname: ["Feras", "F.", "Firas"]
     url: https://www.gju.edu.jo/content/prof-feras-al-hawari-1309
 
-"Heinrich"
+"Heinrich":
   - firstname: ["Stefan", "S."]
     url: https://stefanheinrich.net/
 
