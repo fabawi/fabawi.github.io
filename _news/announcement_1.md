@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Wrapyfi code paper accepted as a short-contribution at the HRI '24 (Boulder, CO, USA) conference and will appear alongside the full-paper proceedings in March 2024
+The [Wrapyfi](https://github.com/fabawi/wrapyfi) code contribution was accepted at the HRI '24 (Boulder, CO, USA) conference and will appear as an SC alongside the full-paper proceedings in March 2024
