@@ -16,11 +16,18 @@ Summer 2022: [Neural Networks Course (M.Sc.)](https://www.stine.uni-hamburg.de/s
 # M.Sc. Thesis Supervision
 
 **Theodor Wulff** (Currently pursuing his Ph.D. @ University of Manchester)
+
 Thesis title: *Capturing Long-Term Dynamics During Salient Video Representation Learning*
+
 In fulfillment of the M.Sc. degree requirements at the Department of Informatics, University of Hamburg, Germany.
+
 Co-supervisors: Fares Abawi, Dr. Philipp Allgeuer, Prof. Stefan Wermter
 
+
 **Maximilian Keiff**
+
 Thesis title: *Social Attention Prediction in a Free-Viewing Eye Tracking Task*
+
 In fulfillment of the M.Sc. degree requirements at the Department of Informatics, University of Hamburg, Germany.
+
 Co-supervisors: Fares Abawi, Dr. Di Fu, Prof. Stefan Wermter 
