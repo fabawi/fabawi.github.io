@@ -23,6 +23,7 @@ In fulfillment of the M.Sc. degree requirements at the Department of Informatics
 
 Co-supervisors: Fares Abawi, Dr. Philipp Allgeuer, Prof. Stefan Wermter
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 **Maximilian Keiff**
 
