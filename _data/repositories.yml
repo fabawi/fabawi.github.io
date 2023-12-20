@@ -1,5 +1,4 @@
 github_users:
-  - modular-ml
   - fabawi
 
 github_repos:
@@ -8,4 +7,3 @@ github_repos:
   - modular-ml/wrapyfi-examples_llama
   - knowledgetechnologyuhh/gasp
   - knowledgetechnologyuhh/augmented_grasping_3d
-  - modular-ml/wrapyfi-interfaces
