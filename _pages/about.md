@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: Informatikum, F-214</p>
-    <p>Vogt-K\"olln Str. 30</p>
+    <p>Office: IKUM, F-214</p>
+    <p>Vogt-Kölln Str. 30</p>
     <p>22527 Hamburg</p>
 
 news: true  # includes a list of news items
