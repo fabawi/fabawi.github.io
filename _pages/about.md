@@ -19,6 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Fares Abawi, a research associate at the University of Hamburg. My work is mostly about making computers and robots smarter and more perceptive, especially in understanding what grabs our attention in different situations. I've been particularly focused on projects like "GASP: Gated Attention for Saliency Prediction" and exploring how humanoid robots can mimic human-like attention and conflict resolution.
+Hi there! I'm Fares Abawi, a research associate and Ph.D. candidate at the University of Hamburg. My work is mostly about making computers and robots smarter and more perceptive, especially in understanding what grabs our attention in different situations. I've been particularly focused on projects like "GASP: Gated Attention for Saliency Prediction" and exploring how humanoid robots can mimic human-like attention and conflict resolution through multimodal integration.
 
-When I'm not deep into research, you can find me contributing to various tech projects on GitHub, in the hopes of making our interactions with technology more intuitive and effective. Thanks for stopping by!
+As an advocate for collaborative technology, I actively contribute to open-source software projects (check out [ImageBind-LoRA](https://github.com/fabawi/ImageBind-LoRA) and [Llama LLM distributed with Wrapyfi](https://github.com/modular-ml/wrapyfi-examples_llama)). 
+
+I also enjoy sharing photos on Google Maps having contributed over 850 photos, with upwards of 2 mln. views. Whether it's a photo of a bustling city street, a serene landscape, or an undiscovered corner of a neighborhood, you'll find it on my [Google Maps account](https://www.google.com/maps/contrib/103983849206920960820/photos/@52.5146096,3.1303341,6z/data=!3m1!4b1!4m3!8m2!3m1!1e1?entry=ttu).
+
+Thanks for stopping by!
