@@ -2,7 +2,7 @@
 layout: page
 title: GASP
 description: GASP is a multimodal social cue integration model for dynamic (video) saliency prediction. It combines the representations of existing social cue detectors (gaze estimation, gaze following, facial expression recognition, and audiovisual saliency prediction) and attends to the most conspicious region. 
-img: covers/gasp_cover.jpg
+img: assets/img/covers/gasp_cover.jpg
 importance: 2
 category: work
 related_publications: abawi2021gasp
