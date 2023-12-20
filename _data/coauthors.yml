@@ -1,3 +1,28 @@
 "Wermter":
   - firstname: ["Stefan", "S."]
     url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/wermter.html
+
+"Fu":
+  - firstname: ["Di", "D."]
+    url: https://www.difu-academic.org/
+
+"Eppe":
+  - firstname: ["Manfred", "M."]
+    url: http://www.manfred.eppe.eu/
+
+"AlDaoud"
+  - firstname: ["Mohammad", "M."]
+    url: https://www.gju.edu.jo/content/prof-mohammad-aldaoud-1305
+
+"Alouneh"
+  - firstname: ["Sahel", "S."]
+    url: https://engineering.aau.ac.ae/en/academic-staff/staff/sahel-alouneh
+
+"Al-Hawari"
+  - firstname: ["Feras", "F."]
+    url: https://www.gju.edu.jo/content/prof-feras-al-hawari-1309
+
+"Heinrich"
+  - firstname: ["Stefan", "S."]
+    url: https://stefanheinrich.net/
+
