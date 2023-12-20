@@ -2,7 +2,7 @@
 layout: page
 title: Prompt-Driven Visuomotor Grasping
 description: A neural model for grasping basic objects with the NICO robot. The initial and target images are fed into the model, along with the shape, color and position of the object to be grasped, and where it should be placed.
-img: https://github.com/knowledgetechnologyuhh/gasp/blob/main/showcase/coutrot2_clip13_compressed.gif?raw=true
+img: covers/grasping_cover.jpg
 importance: 3
 category: work
 related_publications: kerzel2019neurocognitive,abawi2020augmented
