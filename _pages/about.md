@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/abawi.html)'>Research Associate, University of Hamburg</a>
+subtitle: <a href='https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/abawi.html'>Research Associate, University of Hamburg</a>
 
 profile:
   align: right
