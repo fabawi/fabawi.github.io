@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: downloads
 nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: resume
+      permalink: /assets/pdf/CV_Fares_Abawi-2023.PUBLIC.en.pdf
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: datasets
+      permalink: /projects/#datasets
 ---
