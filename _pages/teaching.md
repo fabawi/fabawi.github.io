@@ -12,6 +12,7 @@ nav_order: 5
 Talks and presentations held starting from the year 2020
 
 ## internal
+
 * [CML Project](https://www.crossmodal-learning.org/) Annual Symposia 2020 (virtual), 2021 (virtual), 2022 (Hamburg), 2023 (Hamburg): Speaker as a member of A5 project
 
 * [CML Journal Club](https://www.crossmodal-learning.org/events/cml-journal-club.html) where members of the CML discuss and disseminate research articles of interest:
