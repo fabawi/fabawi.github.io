@@ -1,10 +1,42 @@
+"M.Sc. Thesis":
+  url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/
+  color: "#00369f"
+
+"Dataset":
+  url: https://fares.abawi.me/projects#datasets
+  color: "#36009f"
+  
 "HRI":
   url: https://humanrobotinteraction.org/
-  color: "#00369f"
   
 "RO-MAN":
-  url: https://ro-man2023.org/
+  url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/ro-man
 
 "IJCAI":
   url: https://www.ijcai.org/
+
+"ICRA":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+
+"ICDL":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1001919/all-proceedings
+  
+"ICANN":
+  url: https://e-nns.org/icann2021/
+
+"ESANN":
+  url: https://www.esann.org/
+
+"ICIS":
+  url: https://acisinternational.org/2015-conferences/
+
+"Neurocomputing":
+  url: https://www.sciencedirect.com/journal/neurocomputing
+
+"IJSR":
+  url: https://link.springer.com/journal/12369
+
+"TCDS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989
+
 
