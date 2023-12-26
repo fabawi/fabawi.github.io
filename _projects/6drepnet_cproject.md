@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 6DRepNet
-description: [6DRepNet](https://github.com/thohemp/6DRepNet) Restructured repository for packaging source and correctly linking imports. 
+description: Restructured repository for packaging source and correctly linking imports. 
 img: 
-redirect: https://github.com/thohemp/6DRepNet/pull/32
+redirect: https://github.com/thohemp/6DRepNet/pulls?q=is%3Apr+author%3Afabawi
 importance: 1
 category: contributions
 ---
