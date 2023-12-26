@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [research, OSS, contributions, datasets]
+display_categories: [research, OSS, datasets, contributions]
 horizontal: false
 ---
 
