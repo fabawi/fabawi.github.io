@@ -1,9 +1,9 @@
 ---
 layout: page
 title: al-folio
-description: [al-folio](https://github.com/alshedivat/al-folio) Added support for video blocks in bib entries 
+description: Added support for video blocks in bib entries.
 img: 
-redirect: https://github.com/alshedivat/al-folio/pull/2008
+redirect: https://github.com/alshedivat/al-folio/pulls?q=is%3Apr+author%3Afabawi
 importance: 1
 category: contributions
 ---
