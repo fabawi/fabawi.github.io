@@ -35,6 +35,8 @@ Teaching and advisory duties starting from the year 2020
 
 ## lectures offered
 
+* Summer 2024 (Hamburg):             [Neural Networks Course (M.Sc.)](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000702,-N0,-N388826028509933,-N388826028541934,-N0,-N0,-N0): Lecture on Training Neural Networks
+
 * Summer 2023 (Hamburg):             [Neural Networks Course (M.Sc.)](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000685,-N0,-N384954019936821,-N384954019938822,-N0,-N0,-N0): Lecture on Training Neural Networks
 
 * Summer 2022 (Hamburg):             [Neural Networks Course (M.Sc.)](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000663,-N0,-N381584258079208,-N381584258089209,-N0,-N0,-N0): Lecture on Training Neural Networks
