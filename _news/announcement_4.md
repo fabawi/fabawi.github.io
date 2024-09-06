@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won the Best Paper Award at [InterAI RO-MAN](https://sites.google.com/view/interaiworkshops/accepted-papers) sponsored by [Duckietown](https://duckietown.com/)
+Won the Best Paper Award at [RO-MAN 2024 InterAI](https://sites.google.com/view/interaiworkshops/accepted-papers) sponsored by [Duckietown](https://duckietown.com/)
