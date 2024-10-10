@@ -30,7 +30,7 @@ Talks and presentations held starting from the year 2020
 
 * [HRI'24 Companion](https://humanrobotinteraction.org/2024) 11.03.2024 (Boulder, Colorado, USA): LBR paper poster session *"Human Impression of Humanoid Robots Mirroring Social Cues"* [\[poster\]](https://github.com/fabawi/fabawi.github.io/blob/master/assets/pdf/wrapyfi_hrimirroring_poster.pdf?raw=true)
   
-* [RO-MAN 2022 ML-HRI Workshop 22](https://ml-hri2022.ivai.onl/) 22.08.2022 (virtual): Workshop paper presentation *"Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation"* [\[slides\]](https://1drv.ms/p/s!AtsoXIeDdjRojJ92x1tYWMLIND3ViQ?e=ya9iuf)
+* [RO-MAN 2022 ML-HRI Workshop](https://ml-hri2022.ivai.onl/) 22.08.2022 (virtual): Workshop paper presentation *"Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation"* [\[slides\]](https://1drv.ms/p/s!AtsoXIeDdjRojJ92x1tYWMLIND3ViQ?e=ya9iuf)
 
 * [IJCAI-21 Conference](https://ijcai-21.org/) 26.08.2021 (virtual): Conference paper presentation *"GASP: Gated Attention for Saliency Prediction"* <d-cite key="abawi2021gasp"></d-cite> [\[video\]](https://www.youtube.com/watch?v=e4HFTmEgirk&t=35s&ab_channel=KnowledgeTechnology%2CUniversityofHamburg) [\[videos & slides\]](https://ijcai-21.org/videos-slides/?video=4524)
 
