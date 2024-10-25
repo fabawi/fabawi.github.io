@@ -5,6 +5,8 @@
       value: Fares Abawi
     - name: Languages
       value: English (native proficiency), Arabic (native proficiency), German (intermediate proficiency)
+    - name: Nationality & Residence
+      value: Bahraini 🇧🇭 - Permanent resident in Germany 🇩🇪
 
 - title: Education
   type: time_table
