@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: fabawi # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: abawi_fares # your X handle
+x_username: # abawi_fares # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: fabawi # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -83,7 +83,7 @@ osf_id: # your OSF ID
 research_gate_profile: Fares-Abawi # your profile on ResearchGate
 scopus_id: 56925336200 # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/abawi.html # work page URL
+work_url: # https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/abawi.html # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -102,7 +102,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can reach me by email firstname.lastname AT uni-hamburg.de | AT modular.ml | AT abawi.me | AT ieee.org
+  You can reach me by email firstname.lastname AT modular.ml | AT abawi.me | AT ieee.org
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
