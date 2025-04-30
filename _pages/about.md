@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://abawi.me'>AI Researcher</a>
+subtitle: <a href='https://abawi.me'>AI Scientist</a>
 
 profile:
   align: right
