@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our human participant study based on the Wrapyfi [\[code\]](https://github.com/fabawi/wrapyfi)[\[paper\]](https://www2.informatik.uni-hamburg.de/wtm/publications/2024/AAFW24/Abawi_HRI24.pdf) framework was accepted at the HRI '24 (Boulder, CO, USA) conference Late-Breaking Results (LBR)
+Our human participant study based on the Wrapyfi [\[code\]](https://github.com/fabawi/wrapyfi)[\[paper\]](https://www2.informatik.uni-hamburg.de/wtm/publications/2024/AAFW24/Abawi_HRI24.pdf) framework was accepted at the [HRI 2024 (Boulder, CO, USA)](https://humanrobotinteraction.org/2024/index.html) conference Late-Breaking Results (LBR)
