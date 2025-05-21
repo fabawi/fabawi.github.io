@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2025-05-21 17:49:00-0400
+date: 2025-01-20 23:41:00-0400
 inline: true
 related_posts: false
 ---
-
-Presenting at ICRA2025 tomorrow (22.05) @ 8:50 AM ET in Room A307 at the Georgia World Congress Center, Atlanta, GA.
+Our paper was accepted at the [ICRA 2025 (Atlanta, GA, USA)](https://2025.ieee-icra.org/) conference as a full contribution. See you in Atlanta!
