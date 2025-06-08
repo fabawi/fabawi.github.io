@@ -23,7 +23,7 @@ Talks and presentations held starting from the year 2020
 
 
 ## conference and public venues
-* [ICRA 2025 Conference](https://2025.ieee-icra.org/) 22.05.2025 (Atlanta, Georgia, USA): Conference paper presentation *"HRI-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models"* [\[slides\]](https://1drv.ms/p/c/68347683875c28db/EWy15kCt361BveZIyCYctukBbuUwLtKVMIEsInY8ljWkyg?e=PaUqVe) [\[Poster\]](https://1drv.ms/b/c/68347683875c28db/EUwtTNtY4MFHiwPwBu0018cBU4xWiSckTtP9E_HZmy1ggw?e=gpW3Lw)
+* [ICRA 2025 Conference](https://2025.ieee-icra.org/) 22.05.2025 (Atlanta, Georgia, USA): Conference paper presentation *"HRI-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models"* [\[slides\]](https://1drv.ms/p/c/68347683875c28db/EWy15kCt361BveZIyCYctukBbuUwLtKVMIEsInY8ljWkyg?e=PaUqVe) [\[poster\]](https://1drv.ms/b/c/68347683875c28db/EUwtTNtY4MFHiwPwBu0018cBU4xWiSckTtP9E_HZmy1ggw?e=gpW3Lw)
   
 * [RO-MAN 2024 InterAI Workshop](https://sites.google.com/view/interaiworkshops) 26.08.2024 (Pasadena, California, USA): Workshop paper presentation *"HRI-Free Evaluation of Embodied Social Attention Models Through Cognitive Robotic Simulation"* [\[slides\]](https://1drv.ms/p/s!AtsoXIeDdjRojNkCsoGQhuBs1D-UbA?e=IUgCpX)
  
