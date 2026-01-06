@@ -22,6 +22,6 @@ Hello! I'm Fares Abawi (فارس عبوي). I studied electronic and communicati
 I actively maintain several open-source projects:
 
 - [**TeXlyre**](https://github.com/TeXlyre/texlyre): A local-first LaTeX and Typst web editor with collaborative editing and offline support (resources at [texlyre.org](https://texlyre.org))
-- [**Wrapyfi**](https://github.com/fabawi/wrapyfi): A framework for integrating robots and devices across multiple middleware including ROS, ROS 2, YARP, ZeroMQ, and MQTT (resources at [modular.ml](https://modular.ml))
+- [**Wrapyfi**](https://github.com/fabawi/wrapyfi): A framework for integrating robots and devices across multiple middleware including ROS, ROS 2, YARP, ZeroMQ, MQTT, and more (resources at [modular.ml](https://modular.ml))
 - [**Llama with Wrapyfi**](https://github.com/modular-ml/wrapyfi-examples_llama): Distributed deployment of Llama LLM using the Wrapyfi framework
 - [**ImageBind-LoRA**](https://github.com/fabawi/ImageBind-LoRA): Parameter-efficient fine-tuning for Meta's ImageBind multimodal model
