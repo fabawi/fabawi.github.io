@@ -23,6 +23,9 @@ Talks and presentations held starting from the year 2020
 
 
 ## conference and public venues
+
+* [W3C Workshop on Smart Voice Agents](https://w3c.github.io/smartagents-workshop/agenda.html) 26.02.2026 (virtual): Workshop presentation: *"Gaze-Aware Dialog Systems "* [\[slides\]](https://github.com/fabawi/fabawi.github.io/blob/master/assets/pdf/gazeaware_w3cvoice_slides.pdf?raw=true)
+
 * [ICRA 2025 Conference](https://2025.ieee-icra.org/) 22.05.2025 (Atlanta, Georgia, USA): Conference paper presentation *"HRI-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models"* [\[slides\]](https://1drv.ms/p/c/68347683875c28db/EWy15kCt361BveZIyCYctukBbuUwLtKVMIEsInY8ljWkyg?e=PaUqVe) [\[poster\]](https://1drv.ms/b/c/68347683875c28db/EUwtTNtY4MFHiwPwBu0018cBU4xWiSckTtP9E_HZmy1ggw?e=gpW3Lw)
   
 * [RO-MAN 2024 InterAI Workshop](https://sites.google.com/view/interaiworkshops) 26.08.2024 (Pasadena, California, USA): Workshop paper presentation *"HRI-Free Evaluation of Embodied Social Attention Models Through Cognitive Robotic Simulation"* [\[slides\]](https://1drv.ms/p/s!AtsoXIeDdjRojNkCsoGQhuBs1D-UbA?e=IUgCpX)
@@ -33,7 +36,7 @@ Talks and presentations held starting from the year 2020
   
 * [RO-MAN 2022 ML-HRI Workshop](https://ml-hri2022.ivai.onl/) 22.08.2022 (virtual): Workshop paper presentation *"Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation"* [\[slides\]](https://1drv.ms/p/s!AtsoXIeDdjRojJ92x1tYWMLIND3ViQ?e=ya9iuf)
 
-* [IJCAI-21 Conference](https://ijcai-21.org/) 26.08.2021 (virtual): Conference paper presentation *"GASP: Gated Attention for Saliency Prediction"* <d-cite key="abawi2021gasp"></d-cite> [\[video\]](https://www.youtube.com/watch?v=e4HFTmEgirk&t=35s&ab_channel=KnowledgeTechnology%2CUniversityofHamburg) [\[videos & slides\]](https://ijcai-21.org/videos-slides/?video=4524)
+* [IJCAI-21 Conference](https://ijcai-21.org/) 26.08.2021 (virtual): Conference paper presentation *"GASP: Gated Attention for Saliency Prediction"* <d-cite key="abawi2021gasp"></d-cite> [\[video\]](https://www.youtube.com/watch?v=e4HFTmEgirk&t=35s&ab_channel=KnowledgeTechnology%2CUniversityofHamburg)
 
 
 # teaching
